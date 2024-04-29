@@ -1,4 +1,4 @@
-![Card Name](https://cardivo.vercel.app/api?name=Muhammad%20Asim&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Python|Data%20Science|Machine-Learning Engineer|%20&site=%F0%9F%8E%93%20&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
+![Card Name](https://cardivo.vercel.app/api?name=Muhammad%20Asim&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Python|Data%20Science|Machine-Learning Engineer|%20&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
 
 
 <h1>Hello World, I'm Engr.AHSAN TARIQ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
