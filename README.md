@@ -1,4 +1,5 @@
-![Card Name](https://cardivo.vercel.app/api?name=Muhammad%20Asim&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Python|Data%20Science|Machine-Learning Engineer|%20&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
+
+![Card Name](https://cardivo.vercel.app/api?name=Engr.Ahsan%20Tariq&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Python|Data%20Science|Django-Backed-Developer|%20&site=%F0%9F%8E%93%20Statistics%20and%20Mathematics|Numerical-Methods|Linear-Aljebra&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
 
 
 <h1>Hello World, I'm Engr.AHSAN TARIQ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
@@ -6,7 +7,7 @@
 
 | <a href="https://asciinema.org/a/375762" target="_blank"><img src="no_control.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="no_control_swingup.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="controlled.svg" width="300" title="click to watch" /></a> |
 |:--:| :--: |:--: |
-| No control | Swing-Up without Stabilization |  Swing-Up with Stabilization |
+| *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
 
 
 <!-- About me image -->
@@ -16,12 +17,12 @@
 
 
 - 🎓 I am a Computer System Engineer! 🐺
-- ✍ I'm a writer of my thoughts.
+- ✍️ I'm a writer of my thoughts.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Python Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
-- ✍ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: ahsantariq0724@gmail.com ⚛
+- ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
+- 📫 How to reach me: ahsantariq0724@gmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and do coding! 🎸
 
 
@@ -66,7 +67,7 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
   ![CockroachDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqkserver)
-- ⚙ &nbsp;
+- ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
@@ -163,7 +164,7 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 <br/>
 
 
-python
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -179,7 +180,7 @@ class ComputerEngineer:
         return pakistan_bahawalpur()
 
 me = python_developer()
-
+```
 
 
 
@@ -202,3 +203,6 @@ me = python_developer()
 <p align="center">
   <img src="https://github.com/ahsantariq7/ahsantariq7/blob/main/eesa.gif">
 </p>
+
+
+
