@@ -2,7 +2,7 @@
 ![Card Name](https://cardivo.vercel.app/api?name=Muhammad%20Asim&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Python|Data%20Science|Machine-Learning|%20&site=%F0%9F%8E%93%20%20%20&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
 
 
-<h1>Hello World, I'm Engr.AHSAN TARIQ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1>Hello World, I'm Muhammad Asim! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 
 | <a href="https://asciinema.org/a/375762" target="_blank"><img src="no_control.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="no_control_swingup.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="controlled.svg" width="300" title="click to watch" /></a> |
@@ -16,17 +16,17 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-- 🎓 I am a Computer System Engineer! 🐺
+- 🎓 I have completed my M-Phil Artificial Intelligence! 🐺
 - ✍️ I'm a writer of my thoughts.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Python Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
-- 📫 How to reach me: ahsantariq0724@gmail.com ⚛️
+- 📫 How to reach me: muhammad.aasim2024@gmail.com ⚛️
 - ⚡ Fun fact: I love listening to music and do coding! 🎸
 
 
-I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician working in Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
+I love APIs, Tea, and the unstoppable comma. I am a mathematician working in Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
 
 ## Like My Work? : <a href="https://avatars.githubusercontent.com/u/44137944?v=4"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/44137944?v=4"></a>
 
@@ -127,15 +127,15 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ahsantariq7/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq7&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
+      <a href="https://github.com/muhammadasim00/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadasim00&hide_border=true&show_icons=true" alt="Wandrys's GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/ahsantariq7/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsantariq7&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <a href="https://github.com//muhammadasim00/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasim00&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ahsantariq7&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=muhammadasim00&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
@@ -150,13 +150,13 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 <table width="100%"> 
   <tr>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahsantariq7&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=muhammadasim00&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahsantariq7&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadasim00&layout=compact&langs_count=8&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsantariq7&amp;langs_count=8&amp;theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasim00&amp;langs_count=8&amp;theme=algolia">
     </td>
   </tr>
 </table>
@@ -170,9 +170,9 @@ I love APIs, Tea, and the unstoppable comma. I am a full stack mathematician wor
 
 class ComputerEngineer:
     def __init__(self):
-        self.name    = "Ahsan Tariq"
-        self.role    = "Data Scientist, Backend Developer"
-        self.contact = "ahsantariq0724@gmail.com"
+        self.name    = "Muhammad Asim"
+        self.role    = "Mphil- Artificial Intelligence"
+        self.contact = "muhammad.aa2024@gmail.com"
         self.work    = "Data Scientist, Web Developer"
         self.learn   = "Coding"
     
